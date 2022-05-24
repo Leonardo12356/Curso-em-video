@@ -17,7 +17,7 @@ public class Aula4 {
 		p2.abrirConta("CP");
 		p2.depositar(500);
 		p2.sacar(1000);
-		
+		;
 		p1.estadoAtual();
 		p2.estadoAtual();
 		
